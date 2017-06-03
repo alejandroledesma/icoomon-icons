@@ -1,0 +1,38 @@
+{
+  "name": "icoomon-icons",
+  "version": "1.0.0",
+  "description": "A set of icoomon icons for use with iron-icon",
+  "authors": [
+    "Alejandro ledesma"
+  ],
+  "keywords": [
+    "web-components",
+    "icoomon",
+    "icon"
+  ],
+  "main": "icoomon-icons.html",
+  "private": false,
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/alejandroledesma/icoomon-icons.git"
+  },
+  "dependencies": {
+    "iron-icon": "PolymerElements/iron-icon#1 - 2",
+    "iron-iconset-svg": "PolymerElements/iron-iconset-svg#1 - 2",
+    "polymer": "Polymer/polymer#1.9 - 2"
+  },
+  "devDependencies": {
+    "paper-styles": "PolymerElements/paper-styles#1 - 2",
+    "iron-component-page": "polymerelements/iron-component-page#1 - 2",
+    "iron-meta": "PolymerElements/iron-meta#1 - 2",
+    "webcomponentsjs": "webcomponents/webcomponentsjs#^1.0.0",
+    "web-component-tester": "^6.0.0"
+  },
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
